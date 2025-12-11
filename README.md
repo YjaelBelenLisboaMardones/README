@@ -16,7 +16,7 @@ Pronouns: She/Her
 - SQL Developer
 - Postman
 - Jira/Trello
-- Docker / Kubernetes (en aprendizaje)
+- Linux
 
 ## Acerca de mí
 Soy una Desarrolladora Backend orientada al Área de Soporte y Operaciones, especializada en diagnosticar, estabilizar y optimizar servicios críticos en producción. Mi base técnica está en Java/Kotlin, Spring Boot y desarrollo de APIs, lo que me permite abordar incidentes no solo desde el síntoma, sino desde la comprensión real del código y sus dependencias.
